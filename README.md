@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mayur Jagtap
-**A passionate Computer Engineer || Web Developer**
+**A passionate Computer Engineer || Associate software Developer**
 
 Email Me 👉 ✉️ **mayurjagtap956@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
