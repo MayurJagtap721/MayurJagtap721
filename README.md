@@ -26,9 +26,9 @@ Email Me 👉 ✉️ **mayurjagtap956@gmail.com** For Collaboration/Project or A
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayurJagtap721&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=MayurJagtap721&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MayurJagtap721&theme=dark&hide_border=false)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=MayurJagtap721&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[](https://github-readme-stats.vercel.app/api?username=MayurJagtap721&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[](https://github-readme-streak-stats.herokuapp.com/?user=MayurJagtap721&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MayurJagtap721&theme=radical&no-frame=false&no-bg=false&margin-w=4)
