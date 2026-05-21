@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **mayurjagtap956@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-* 🔭 **I’m currently working on:** Online Voting System & MCQ Exam Web Application using Java, Hibernate, MySQL, HTML, CSS, and JavaScript
-* 🌱 **I’m currently learning:** Java Full Stack Development, Spring Framework, React, MongoDB, and .NET
-* 👯 **I’m looking to collaborate on:** Inventory Management System
-* 🤔 **I’m looking for help with:** Building scalable full-stack web applications and improving backend architecture
-* 💬 **Ask me about:** Collaboration, Tech Support, Java Projects, Web Development
+* 🔭 **I’m currently working on:** Online Voting System & MCQ Exam Web Application using Java, Hibernate, MySQL, HTML, CSS, and JavaScript.
+* 🌱 **I’m currently learning:** Java Full Stack Development, Spring Framework, React, MongoDB, and .NET.
+* 👯 **I’m looking to collaborate on:** Inventory Management System.
+* 🤔 **I’m looking for help with:** Building scalable full-stack web applications and improving backend architecture.
+* 💬 **Ask me about:** Collaboration, Tech Support, Java Projects, Web Development.
 * 📫 **How to reach me:** [mayurjagtap956@gmail.com](mailto:mayurjagtap956@gmail.com)
 * 😄 **Pronouns:** Mayur
-* ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* ⚡ **Fun fact:** I Love Tech and Tech Love Me.
 
 
 ## 🌐 Socials:
