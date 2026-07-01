@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **mayurjagtap956@gmail.com** For Collaboration/Project or A
 * 🌱 **I’m currently learning:** Java Full Stack Development, Spring Framework, React, MongoDB, and .NET.
 * 👯 **I’m looking to collaborate on:** Inventory Management System.
 * 🤔 **I’m looking for help with:** Building scalable full-stack web applications and improving backend architecture.
-* 🌐 Portfolio Website: [(https://mayurjagtapportfolio.netlify.app/)](https://mayurjagtapportfolio.netlify.app/)
+* 🌐 Portfolio Website: [https://mayurjagtapportfolio.netlify.app/](https://mayurjagtapportfolio.netlify.app/)
 * 💬 **Ask me about:** Collaboration, Tech Support, Java Projects, Web Development.
 * 📫 **How to reach me:** [mayurjagtap956@gmail.com](mailto:mayurjagtap956@gmail.com)
 * 😄 **Pronouns:** Mayur
